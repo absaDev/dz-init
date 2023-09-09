@@ -1,0 +1,27 @@
+26
+41/home/dev/less-practice/dist/index-2.html1693671258193229199 0
+41/home/dev/less-practice/dist/index-0.html1693671482393375743 0
+48/home/dev/less-practice/dist/index-0.de158e3a.js1693671182918722330 0
+48/home/dev/less-practice/dist/index-0.a3c0cd54.js1693671255513279559 0
+48/home/dev/less-practice/dist/index-2.7c88cf38.js1693671258197229124 0
+49/home/dev/less-practice/dist/index-0.4d663569.css1693671258169229649 0
+52/home/dev/less-practice/dist/index-0.de158e3a.js.map1693671182918722330 0
+48/home/dev/less-practice/dist/index-1.de158e3a.js1693671258209228899 0
+52/home/dev/less-practice/dist/index-2.7c88cf38.js.map1693671258201229049 0
+52/home/dev/less-practice/dist/index-0.a3c0cd54.js.map1693671255517279483 0
+48/home/dev/less-practice/dist/index-1.14cf28ce.js1693671258205228974 0
+23/home/dev/less-practice1693671182866723431 1
+40/home/dev/less-practice/src/index-2.html1693670925753461528 0
+27/home/dev/less-practice/src1693670925749461572 1
+38/home/dev/less-practice/src/styles.css1692438674387717725 0
+35/home/dev/less-practice/src/main.js1693165117203586821 0
+52/home/dev/less-practice/dist/index-1.de158e3a.js.map1693671258213228824 0
+40/home/dev/less-practice/src/index-1.html1693670925749461572 0
+40/home/dev/less-practice/src/index-0.html1693671258733219075 0
+52/home/dev/less-practice/dist/index-1.14cf28ce.js.map1693671258209228899 0
+28/home/dev/less-practice/dist1693671258213228824 1
+33/home/dev/less-practice/README.md1692432747672774730 0
+48/home/dev/less-practice/dist/index-0.4d6bcbeb.js1693671258197229124 0
+41/home/dev/less-practice/dist/index-1.html1693671258213228824 0
+52/home/dev/less-practice/dist/index-0.4d6bcbeb.js.map1693671258201229049 0
+53/home/dev/less-practice/dist/index-0.4d663569.css.map1693671258177229499 0
